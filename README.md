@@ -1,6 +1,6 @@
 # Scraping-with-scarpy
 
-The present project intention is to build a spider able to extract data from craiglist.
+The present project intention is to build a spider able to extract data from craigslist.
 It is focused to extract ads from cars and trucks on sale in the eastside of seattle.
 The spider provides from the first layer:
 -Title
